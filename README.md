@@ -10,7 +10,7 @@
 ## 🌐 Socials & Coding Profiles:
 <a href="mailto:amantvn1234@gmail.com "><img src="https://img.shields.io/badge/Gmail-%23430098.svg?logo=Gmail&logoColor=white"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/aman-singh-26676521b/)
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://twitter.com/AdarshS44093566)
+[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmanSin37533355)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%2320232a.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/amantvn1234/)
 [![Leetcode](https://img.shields.io/badge/Geeksforgeeks-%2320232a.svg?logo=Geeksforgeeks&logoColor=white)](https://geeksforgeeks.com/https://auth.geeksforgeeks.org/user/amantvn1234/)
 
